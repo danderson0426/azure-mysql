@@ -1,0 +1,6 @@
+{
+    "fileUris": [
+        "https://raw.githubusercontent.com/Azure/azure-mysql/refs/heads/master/Magento2/deploy-aks.sh"
+    ],
+    "commandToExecute": "./deploy-aks.sh"
+}
